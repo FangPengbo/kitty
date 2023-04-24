@@ -7,10 +7,15 @@ module.exports = {
     ],
     darkMode: false, // or 'media' or 'class'
     theme: {
+        container: {
+            center: true,
+          },
         extend: {
             height:{
                 '1/10': '10%',
                 '8/10': '80%',
+                '1/20': '5%',
+                '18/20': '90%',
             }
         },
     },

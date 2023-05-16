@@ -21,7 +21,7 @@
           </a> · 豫ICP备2021007324
         </div>
         <div class="text-center md:text-right text-xs">
-          享受补番的乐趣吧~
+          站内资源收集于网络，若侵犯了您的合法权益，请联系我们删除！享受补番的乐趣吧~
         </div>
       </div>
     </div>

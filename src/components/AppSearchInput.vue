@@ -52,7 +52,6 @@ export default {
         this.ui_list = [];
         return;
       }
-      // this.ui_list = await this.$content("ui").search(searchQuery).fetch();
     },
   },
   methods: {

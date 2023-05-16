@@ -40,6 +40,15 @@
       <div class="hidden sm:block min-w-[82px]">
         <ul class="flex space-x-6">
           <li>
+            <router-link to="/">
+              <img
+                src="../../static/logo.png"
+                class="w-[29px] opacity-60 hover:opacity-80"
+                alt="Home"
+              />
+            </router-link>
+          </li>
+          <li>
             <a
               href="https://github.com/FangPengbo"
               target="_blank"

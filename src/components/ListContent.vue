@@ -2,7 +2,7 @@
   <div class="flex-1"></div>
   <div class="flex flex-row h-8/10 w-10/12 container mx-auto">
     <div class="flex flex-row w-10/12">
-      <div class="text-4xl w-10" style="line-height: 18"></div>
+      <div class="text-4xl cursor-no-drop w-10 animate-pulse" style="line-height: 18">⬅</div>
       <div class="flex flex-row flex-wrap w-10/12">
         <div
           class="flex-auto w-1/5 ml-10 rounded-lg border-0 cursor-pointer"
@@ -11,7 +11,7 @@
           @click="detail"
         >
           <div
-            class="h-5/6 bg-no-repeat bg-cover rounded-xl shadow-xl "
+            class="h-5/6 bg-no-repeat bg-cover rounded-xl shadow-xl"
             :style="{ backgroundImage: 'url(' + content.bgImg + ')' }"
           ></div>
           <div
@@ -22,15 +22,17 @@
         </div>
       </div>
       <div
-        class="text-4xl relative right-10 w-16"
+        class="text-4xl cursor-pointer relative -right-10 w-16 animate-pulse"
         style="line-height: 18"
-      ></div>
+      >
+        ➡️
+      </div>
     </div>
     <ContentRight></ContentRight>
   </div>
 </template>
 <script>
-import ContentRight from "../components/ContentRight.vue";
+import ContentRight from "./ContentRight.vue";
 import router from "@/router";
 export default {
   components: {

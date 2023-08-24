@@ -46,42 +46,42 @@ export default {
       {
         id: 1,
         name: "我推的孩子",
-        bgImg: "https://i.328888.xyz/2023/04/24/io8Mq5.jpeg",
+        bgImg: "https://img1.imgtp.com/2023/08/24/tT1EI1Fz.png",
       },
       {
         id: 2,
-        name: "我推的孩子",
-        bgImg: "https://i.328888.xyz/2023/04/24/io8Mq5.jpeg",
+        name: "勇者赫鲁库",
+        bgImg: "https://img13.360buyimg.com/ddimg/jfs/t1/180298/8/34758/47938/64adb023F5318fe57/dc0ecbe5ea038fff.jpg",
       },
       {
         id: 3,
-        name: "我推的孩子",
-        bgImg: "https://i.328888.xyz/2023/04/24/io8Mq5.jpeg",
+        name: "黑暗集会",
+        bgImg: "https://img14.360buyimg.com/ddimg/jfs/t1/180197/33/34733/75737/64ac3999F536c206e/8995fdb2d8e1b862.jpg",
       },
       {
         id: 4,
-        name: "我推的孩子",
-        bgImg: "https://i.328888.xyz/2023/04/24/io8Mq5.jpeg",
+        name: "无职转生 第二季",
+        bgImg: "https://img12.360buyimg.com/ddimg/jfs/t1/113172/30/40910/55183/64a29665F902adb48/46e477b56fa198b1.jpg",
       },
       {
         id: 5,
-        name: "鬼灭之刃 锻刀村篇",
-        bgImg: "https://i.328888.xyz/2023/04/24/ior2xa.jpeg",
+        name: "能干的猫今天也忧郁",
+        bgImg: "https://img11.360buyimg.com/ddimg/jfs/t1/101705/37/40916/52933/64aafbcbF72dd3d6d/9a70f26b1b02df63.jpg",
       },
       {
         id: 6,
-        name: "鬼灭之刃 锻刀村篇",
-        bgImg: "https://i.328888.xyz/2023/04/24/ior2xa.jpeg",
+        name: "僵尸100",
+        bgImg: "https://img13.360buyimg.com/ddimg/jfs/t1/90434/10/32568/132456/64ab00a9Ff07df7df/56d64e1c108f6709.jpg",
       },
       {
         id: 7,
-        name: "鬼灭之刃 锻刀村篇",
-        bgImg: "https://i.328888.xyz/2023/04/24/ior2xa.jpeg",
+        name: "咒术回战 第二季",
+        bgImg: "https://img14.360buyimg.com/ddimg/jfs/t1/143992/8/36548/86417/64a72bd8F64c21ed0/25854e9277931022.jpg",
       },
       {
         id: 8,
-        name: "鬼灭之刃 锻刀村篇",
-        bgImg: "https://i.328888.xyz/2023/04/24/ior2xa.jpeg",
+        name: "死神 千年血战篇 第二季",
+        bgImg: "https://img13.360buyimg.com/ddimg/jfs/t1/127098/25/32925/56879/64a9c942Fcf6115a4/8980792a3b1a709d.jpg",
       },
     ];
     return {

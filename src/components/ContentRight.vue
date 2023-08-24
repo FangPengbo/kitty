@@ -67,9 +67,9 @@ export default {
         { name: "热血", color: "#93c5fd" },
     ]
     const journals = [
-        { name: "23-01", color: "#f9a8d4" },
-        { name: "22-10", color: "#6baece" },
-        { name: "22-07", color: "#93c5fd" },
+        { name: "23-07", color: "#f9a8d4" },
+        { name: "22-04", color: "#6baece" },
+        { name: "22-01", color: "#93c5fd" },
     ]
     return {
         //返回数据

@@ -105,7 +105,7 @@ export default {
       count: 11,
       journal: "2023-04-12",
       duration: 24,
-      bgImg: "https://i.328888.xyz/2023/04/24/io8Mq5.jpeg",
+      bgImg: "https://img1.imgtp.com/2023/08/24/tT1EI1Fz.png",
       douban: "https://movie.douban.com/subject/35936775",
       baiduYun: "https://movie.douban.com/subject/35936775",
       aliYun: "https://movie.douban.com/subject/35936775",
